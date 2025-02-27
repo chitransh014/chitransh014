@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C#(Unity)**
+- 🌱 I’m currently exploring **React**
 
 - 📫 How to reach me **chitranshverma91@gmail.com**
 
